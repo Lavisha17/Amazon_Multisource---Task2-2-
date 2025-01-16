@@ -66,7 +66,7 @@ An interactive Power BI dashboard analyzing Amazon sales data across cities, sta
       <li>Key Measures:
       <ul><li>Total Sales Amount, Units Sold, Average Ratings, and Review Counts.</li></ul></li>
       <li>Time Intelligence:
-        <ul><li></li>Created cumulative measures to track sales and ratings trends over time.</li></ul><li>
+        <ul><li>Created cumulative measures to track sales and ratings trends over time.</li></ul>
     </ul>
   </li>
   <li>
